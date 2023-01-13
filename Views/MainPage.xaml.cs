@@ -1,4 +1,4 @@
-﻿namespace WellComCross;
+﻿namespace WellComCross.Views;
 
 public partial class MainPage : ContentPage
 {
